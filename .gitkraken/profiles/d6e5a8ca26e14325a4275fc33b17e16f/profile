@@ -1,0 +1,41 @@
+{
+  "tabInfo": {
+    "permanentTabs": {
+      "PROJECTS": {
+        "selectedProject": null
+      }
+    },
+    "selectedTabId": "9974f240-66d2-4433-a1ae-ac733f4644d3",
+    "tabs": [
+      {
+        "id": "9974f240-66d2-4433-a1ae-ac733f4644d3",
+        "type": "CLI",
+        "cwd": "/home/alumne",
+        "title": "/alumne",
+        "graphPanelVisibilityMode": "AUTO",
+        "sidePanel": {
+          "height": 510,
+          "width": 706
+        }
+      },
+      {
+        "id": "7b2ec6dc-b685-41e0-b0a9-214fd364175c",
+        "type": "RELEASE_NOTES"
+      }
+    ]
+  },
+  "profileIcon": "Flash-Keif.png",
+  "profileName": "kirel",
+  "userEmail": "raktor777@gmail.com",
+  "userName": "kirel",
+  "gpg": {
+    "commitGpgSign": false,
+    "tagForceSignAnnotated": false
+  },
+  "editor": {
+    "fontFamily": "Ubuntu Mono"
+  },
+  "cli": {
+    "fontFamily": "Ubuntu Mono"
+  }
+}

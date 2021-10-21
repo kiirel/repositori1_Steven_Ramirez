@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Nautilus.desktop" open-window-count="2" score="25" last-seen="1634826068"/>
+    <application id="org.gnome.FileRoller.desktop" open-window-count="0" score="6" last-seen="1634825778"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="0" score="790" last-seen="1634823970"/>
+    <application id="gitkraken.desktop" open-window-count="1" score="313" last-seen="1634825999"/>
+    <application id="firefox.desktop" open-window-count="1" score="30" last-seen="1634824228"/>
+    <application id="update-manager.desktop" open-window-count="0" score="0" last-seen="1634824220"/>
+  </context>
+</application-state>

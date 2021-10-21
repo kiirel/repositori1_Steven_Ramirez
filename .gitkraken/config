@@ -1,0 +1,52 @@
+{
+  "lastUpgradeScriptRun": "v8.0.0",
+  "appId": "ef49d49079cc1149839162d2b9271eeaad587cbd",
+  "sslWhitelist": [],
+  "lastVersion": "8.1.0",
+  "lastReleaseNotesDisplayed": "8.1.0",
+  "windowSettings": {
+    "x": 67,
+    "y": 57,
+    "width": 1024,
+    "height": 800,
+    "fullScreen": false,
+    "maximized": false
+  },
+  "registration": {
+    "email": "raktor777@gmail.com",
+    "name": "RAKsteve",
+    "status": "activated",
+    "loginType": "google",
+    "date": "2021-10-21T13:38:39.034Z",
+    "EULA": {
+      "version": "7.5.0",
+      "status": "agree_verified"
+    }
+  },
+  "userId": "28a5d313-1011-4aa5-9c2c-ff9491584d4c",
+  "licensedFeatures": [
+    "pro",
+    "timelines:pro",
+    "suite:pro",
+    "boards:pro",
+    "trial",
+    "timelines:trial",
+    "suite:trial",
+    "boards:trial"
+  ],
+  "userFeatures": [
+    {
+      "name": "gitkraken"
+    },
+    {
+      "name": "glo"
+    },
+    {
+      "name": "timelines"
+    },
+    {
+      "name": "cli"
+    }
+  ],
+  "hasSeenNewUserOnboarding": true
+}
