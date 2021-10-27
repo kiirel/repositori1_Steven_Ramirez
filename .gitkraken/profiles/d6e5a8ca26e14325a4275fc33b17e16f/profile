@@ -44,5 +44,10 @@
       "width": 674
     }
   },
-  "organizationId": null
+  "organizationId": null,
+  "ui": {
+    "graphOptions": {
+      "showCommitDateTimeInGraph": true
+    }
+  }
 }
