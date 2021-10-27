@@ -40,3 +40,54 @@ wget https://release.gitkraken.com/linux/gitkraken-amd64.deb
 sudo dpkg -i gitkraken-amd64.deb
 sudo apt update 
 gitkraken
+exercici_pokemongit mv m08_uf2_elteucognom
+exercici_pokemongit.zip mv m08_uf2_elteucognom
+sudo exercici_pokemongit.zip mv m08_uf2_elteucognom
+ls
+sudo /exercici_pokemongit.zip mv /Escritorio/m08_uf2_elteucognom
+sudo /Reciente/exercici_pokemongit.zip mv /Escritorio/m08_uf2_elteucognom
+sudo home/Reciente/exercici_pokemongit.zip mv home/Escritorio/m08_uf2_elteucognom
+sudo /home/Reciente/exercici_pokemongit.zip mv /home/Escritorio/m08_uf2_elteucognom
+sudo /home/Descargas/exercici_pokemongit.zip mv /home/Escritorio/m08_uf2_ramirez
+sudo /Descargas/exercici_pokemongit.zip mv /Escritorio/m08_uf2_ramirez
+sudo /Escritorio/Descargas/exercici_pokemongit.zip mv /Escritorio/m08_uf2_ramirez
+m08_uf2_ramirez ls
+m08_uf2_ramirez -ls
+ls m08_uf2_ramirez 
+ls /Escritorio/m08_uf2_ramirez 
+sudo ls /Escritorio/m08_uf2_ramirez 
+git Escritorio/m08_uf2_ramirez
+git commit
+git add .
+git status
+git statusEscritorio/m08_uf2_ramirez 
+git status Escritorio/m08_uf2_ramirez 
+sudo ls Escritorio/m08_uf2_ramirez 
+taulapokemon.html
+cd taulapokemon.html
+cd Escritorio/m08_uf2_ramirez/taulapokemon.html
+cd /Escritorio/m08_uf2_ramirez/taulapokemon.html
+cd /Escritorio/m08_uf2_ramirez
+cd Escritorio/m08_uf2_ramirez
+ls
+cd exercici_pokemongit/
+ls
+cd 
+commit
+commit ramirez
+Primer commit inicial  ramirez
+cler
+clear
+git commit -m 'primer commit inicial ramirez' 
+git status Escritorio/m08_uf2_ramirez 
+cd /Escritorio/m08_uf2_ramirez/
+cd /Escritorio/m08_uf2_ramirez
+cd Escritorio/m08_uf2_ramirez/exercici_pokemongit/kanto/
+ls
+cd 
+title
+git add
+img
+cd Escritorio/m08_uf2_ramirez/exercici_pokemongit/kanto/
+cd 
+sudo nano Escritorio/m08_uf2_ramirez/exercici_pokemongit/taulaPokemon.html

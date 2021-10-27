@@ -23,4 +23,64 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/alumne/Escritorio/m08_uf2_ramirez/exercici_pokemongit/Pokemoncss.css" added="2021-10-21T14:59:31Z" modified="2021-10-21T15:04:33Z" visited="2021-10-21T14:59:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-10-21T15:04:33Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumne/Escritorio/m08_uf2_ramirez/exercici_pokemongit/hoenn/hoenn.html" added="2021-10-25T15:27:22Z" modified="2021-10-25T16:03:45Z" visited="2021-10-25T15:27:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2021-10-25T15:27:22Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-10-25T16:03:45Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumne/Escritorio/m08_uf2_ramirez/exercici_pokemongit/hoenn/images.jpeg" added="2021-10-25T15:37:05Z" modified="2021-10-25T15:38:36Z" visited="2021-10-25T15:37:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-10-25T15:38:36Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumne/Escritorio/m08_uf2_ramirez/exercici_pokemongit/hoenn/imageshh.jpeg" added="2021-10-25T15:38:08Z" modified="2021-10-25T15:38:09Z" visited="2021-10-25T15:38:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-10-25T15:38:09Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumne/Escritorio/m08_uf2_ramirez/exercici_pokemongit/taulaPokemon.html" added="2021-10-25T16:12:11Z" modified="2021-10-25T16:14:18Z" visited="2021-10-25T16:12:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-10-25T16:14:18Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

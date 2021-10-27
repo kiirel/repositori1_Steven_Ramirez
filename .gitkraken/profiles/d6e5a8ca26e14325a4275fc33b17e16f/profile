@@ -11,11 +11,13 @@
         "id": "9974f240-66d2-4433-a1ae-ac733f4644d3",
         "type": "CLI",
         "cwd": "/home/alumne",
-        "title": "/alumne",
+        "title": "alumne",
         "graphPanelVisibilityMode": "AUTO",
         "sidePanel": {
           "height": 510,
-          "width": 706
+          "width": 674,
+          "originalHeight": 510,
+          "originalWidth": 706
         }
       },
       {
@@ -36,6 +38,11 @@
     "fontFamily": "Ubuntu Mono"
   },
   "cli": {
-    "fontFamily": "Ubuntu Mono"
-  }
+    "fontFamily": "Ubuntu Mono",
+    "sidePanel": {
+      "height": 510,
+      "width": 674
+    }
+  },
+  "organizationId": null
 }

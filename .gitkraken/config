@@ -6,11 +6,11 @@
   "lastReleaseNotesDisplayed": "8.1.0",
   "windowSettings": {
     "x": 67,
-    "y": 57,
-    "width": 1024,
-    "height": 800,
+    "y": 55,
+    "width": 1053,
+    "height": 911,
     "fullScreen": false,
-    "maximized": false
+    "maximized": true
   },
   "registration": {
     "email": "raktor777@gmail.com",
@@ -48,5 +48,6 @@
       "name": "cli"
     }
   ],
-  "hasSeenNewUserOnboarding": true
+  "hasSeenNewUserOnboarding": true,
+  "hasSeenTrialStartedModal": true
 }
