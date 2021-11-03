@@ -1,0 +1,2 @@
+[Wed Nov 03 2021 17:14:49 GMT+0100 (hora estándar de Europa central)] Error Applying Stash: 1 conflicts prevent stash application.
+[Wed Nov 03 2021 17:14:49 GMT+0100 (hora estándar de Europa central)] Popping Auto Stashed Changes Failed:
