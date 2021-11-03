@@ -36,7 +36,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/alumne/Escritorio/m08_uf2_ramirez/exercici_pokemongit/hoenn/hoenn.html" added="2021-10-25T15:27:22Z" modified="2021-10-25T16:03:45Z" visited="2021-10-25T15:27:22Z">
+  <bookmark href="file:///home/alumne/Escritorio/m08_uf2_ramirez/exercici_pokemongit/hoenn/hoenn.html" added="2021-10-25T15:27:22Z" modified="2021-10-27T17:43:57Z" visited="2021-10-25T15:27:22Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/html"/>
@@ -44,8 +44,8 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2021-10-25T15:27:22Z" count="1"/>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-10-25T16:03:45Z" count="4"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2021-10-27T17:38:10Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-10-27T17:43:57Z" count="9"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -79,6 +79,19 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-10-25T16:14:18Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumne/Escritorio/m08_uf2_ramirez/exercici_pokemongit/johto/johto.html" added="2021-10-27T17:50:17Z" modified="2021-10-27T17:52:44Z" visited="2021-10-27T17:50:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-10-27T17:52:44Z" count="5"/>
         </bookmark:applications>
       </metadata>
     </info>

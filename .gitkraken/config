@@ -5,12 +5,12 @@
   "lastVersion": "8.1.0",
   "lastReleaseNotesDisplayed": "8.1.0",
   "windowSettings": {
-    "x": 67,
-    "y": 55,
+    "x": 66,
+    "y": 57,
     "width": 1053,
     "height": 911,
     "fullScreen": false,
-    "maximized": true
+    "maximized": false
   },
   "registration": {
     "email": "raktor777@gmail.com",
@@ -24,16 +24,7 @@
     }
   },
   "userId": "28a5d313-1011-4aa5-9c2c-ff9491584d4c",
-  "licensedFeatures": [
-    "pro",
-    "timelines:pro",
-    "suite:pro",
-    "boards:pro",
-    "trial",
-    "timelines:trial",
-    "suite:trial",
-    "boards:trial"
-  ],
+  "licensedFeatures": [],
   "userFeatures": [
     {
       "name": "gitkraken"

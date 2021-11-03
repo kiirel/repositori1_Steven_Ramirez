@@ -10,7 +10,7 @@
       {
         "id": "9974f240-66d2-4433-a1ae-ac733f4644d3",
         "type": "CLI",
-        "cwd": "/home/alumne",
+        "cwd": "/home/alumne/Escritorio/m08_uf2_ramirez",
         "title": "alumne",
         "graphPanelVisibilityMode": "AUTO",
         "sidePanel": {

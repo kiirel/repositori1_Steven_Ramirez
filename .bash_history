@@ -91,3 +91,40 @@ img
 cd Escritorio/m08_uf2_ramirez/exercici_pokemongit/kanto/
 cd 
 sudo nano Escritorio/m08_uf2_ramirez/exercici_pokemongit/taulaPokemon.html
+git status
+git commit -a
+git commit -am '' 
+git commit -am 'all'
+git status
+git add .
+git status
+git branch -c 
+git branch -c branca_hoenn
+git branch branca_hoenn
+git branch -l 
+branca_hoenn
+cd /branca_hoenn
+tree branca_hoenn
+sudo apt install tree
+tree branca_hoenn
+git checkout branca_hoenn
+git add .
+cd  Escritorio/m08_uf2_ramirez/
+git branch branca_hoenn
+cd 
+git branch -d branca_hoenn
+git branch -D branca_hoenn
+git checkout master
+git branch -D branca_hoenn
+cd  Escritorio/m08_uf2_ramirez
+git branch branca_hoenn
+git checkout branca_hoenn
+git checkout master
+git checkout branca_hoenn 
+git commit -m 'primer commit branca hoen' 
+git add .
+git checkout master
+git branch branca_johto
+git checkout branca_johto
+git branch -l
+git add .

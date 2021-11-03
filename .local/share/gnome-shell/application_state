@@ -1,12 +1,10 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="org.gnome.FileRoller.desktop" open-window-count="0" score="6" last-seen="1634825778"/>
-    <application id="firefox.desktop" open-window-count="0" score="90" last-seen="1635177696"/>
-    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="283" last-seen="1635178022"/>
-    <application id="update-manager.desktop" open-window-count="0" score="0" last-seen="1635172815"/>
-    <application id="gitkraken.desktop" open-window-count="1" score="1062" last-seen="1635178019"/>
-    <application id="org.gnome.gedit.desktop" open-window-count="0" score="51" last-seen="1635177928"/>
-    <application id="org.gnome.Terminal.desktop" open-window-count="0" score="790" last-seen="1634823970"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="487" last-seen="1635954408"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="0" score="159" last-seen="1635357165"/>
+    <application id="gitkraken.desktop" open-window-count="1" score="1365" last-seen="1635954422"/>
+    <application id="update-manager.desktop" open-window-count="0" score="0" last-seen="1635953197"/>
+    <application id="firefox.desktop" open-window-count="0" score="144" last-seen="1635357211"/>
   </context>
 </application-state>
